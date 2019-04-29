@@ -45,6 +45,7 @@
    //$jwtSecretKey = "jwt_secret_key";
 
    function getDatabase() {
+      //for slim-api-app
       $dbhost="us-cdbr-iron-east-02.cleardb.net";
       $dbuser="b304398131d251";
       $dbpass="";
